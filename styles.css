@@ -148,6 +148,7 @@ input:focus, textarea:focus {
     bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
+    z-index: 100;
 }
 
 .scroll__icon {
@@ -158,6 +159,7 @@ input:focus, textarea:focus {
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 100;
 }
 
 .scroll__icon:after {
