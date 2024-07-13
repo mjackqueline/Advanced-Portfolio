@@ -630,8 +630,8 @@ SHAPES
 
 .shape {
     position: fixed;
-    height: 1000px;
-    width: 1000px;
+    height: 100px;
+    width: 100px;
 }
 
 .shape--0 {
