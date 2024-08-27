@@ -228,6 +228,11 @@ nav,
     color: #242424;
 }
 
+.outline--text {
+    -webkit-text-stroke-width: 0.75px;
+    -webkit-text-stroke-color: white;
+}
+
 /*
 
 LANDING
